@@ -90,4 +90,4 @@ C:\Users\jaredpar\VsVim> git remote show origin <br>
 </p>
 <br>
 <h2>How to github project transfer with commit </h2>
-<img src="https://drive.google.com/file/d/10iFP_1JFoLNT6JOjdSeRh8mxHxDeJYQt/view?usp=sharing" >
+<img src="img/Screenshot_27.png" >
