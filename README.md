@@ -76,9 +76,11 @@ _A list of my commonly used Git commands_
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
 <br>
-<h2>How to determine the URL that a local Git repository was originally cloned from</h2>
+<h2>How to determine the URL that a local Git repository was originally cloned from?</h2>
 <br>
 <p>
+ans: git remote show origin<br>
+exmaple:<br>
 C:\Users\jaredpar\VsVim> git remote show origin <br>
 * remote origin<br>
   Fetch URL: git@github.com:jaredpar/VsVim.git<br>
@@ -86,3 +88,6 @@ C:\Users\jaredpar\VsVim> git remote show origin <br>
   HEAD branch: master<br>
   Remote branches:<br>
 </p>
+<br>
+<h2>How to github project transfer with commit </h2>
+<img src="https://drive.google.com/file/d/10iFP_1JFoLNT6JOjdSeRh8mxHxDeJYQt/view?usp=sharing" >
