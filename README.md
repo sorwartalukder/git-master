@@ -90,4 +90,10 @@ C:\Users\jaredpar\VsVim> git remote show origin <br>
 </p>
 <br>
 <h2>How to github project transfer with commit </h2>
+<p>
+step 1: open cmd and git clone --bare project_url
+step 2: create a new repo
+step 3: copy the origin url and git push --mirror url
+step 4: git remote set-url origin url
+</p>
 <img src="img/Screenshot_27.png" >
